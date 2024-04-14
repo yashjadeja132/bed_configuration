@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.039bf95e.css",
-    "main.js": "/portfolio/static/js/main.0d92d070.js",
+    "main.js": "/portfolio/static/js/main.1f864d46.js",
+    "static/media/YashrajsinhJadejaResume.pdf": "/portfolio/static/media/YashrajsinhJadejaResume.0dd629ba99c26bfe2d16.pdf",
     "static/media/Hello.gif": "/portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/yashjadejabg.png": "/portfolio/static/media/yashjadejabg.b202927b478bdf85a8ad.png",
-    "static/media/sahils resume.pdf": "/portfolio/static/media/sahils resume.709571fe5900ebad64e6.pdf",
     "static/media/illustration.svg": "/portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/mysql-icon.svg": "/portfolio/static/media/mysql-icon.64f88a817c7f8c20c853ea3acbca9310.svg",
     "static/media/mysql.svg": "/portfolio/static/media/mysql.3737d1ef555157e6069bbc4a693b96dc.svg",
@@ -28,10 +28,10 @@
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
     "static/media/js-icon.svg": "/portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
     "main.039bf95e.css.map": "/portfolio/static/css/main.039bf95e.css.map",
-    "main.0d92d070.js.map": "/portfolio/static/js/main.0d92d070.js.map"
+    "main.1f864d46.js.map": "/portfolio/static/js/main.1f864d46.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.0d92d070.js"
+    "static/js/main.1f864d46.js"
   ]
 }
