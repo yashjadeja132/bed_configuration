@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://yashjadeja132.github.io/react-gh-pages",
+  "homepage": "https://yashjadeja132.github.io/portfolio/",
   "private": true,
   "dependencies": {
     "@formspree/react": "^2.2.4",
