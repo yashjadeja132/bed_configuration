@@ -1,6 +1,4 @@
-# Portfolio of Sahil Ajmeri
-
-<img src ="https://github.com/" />
+# Portfolio of Yashrajsinh Jadeja
  
 This project was created with CRA (Create React App)
 
